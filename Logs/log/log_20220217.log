@@ -1,0 +1,30 @@
+2022-02-17 09:14:36,526 - shuncom_main_2.py[line:165] - ERROR: add_device 祑都: tuple index out of range
+2022-02-17 09:51:08,015 - shuncom_main_2.py[line:185] - ERROR: add_device 祑都: tuple index out of range
+2022-02-17 09:52:28,084 - shuncom_main_2.py[line:185] - ERROR: add_device 祑都: tuple index out of range
+2022-02-17 10:13:46,880 - shuncom_main_2.py[line:506] - ERROR: 邧僻IP輛銡擬ん 祑都: list index out of range
+2022-02-17 10:14:20,822 - shuncom_main_2.py[line:506] - ERROR: 邧僻IP輛銡擬ん 祑都: list index out of range
+2022-02-17 11:03:05,743 - shuncom_main_2.py[line:187] - ERROR: add_device 祑都: 'str' object has no attribute 'keys'
+2022-02-17 11:04:43,879 - shuncom_main_2.py[line:187] - ERROR: add_device 祑都: 'dict_keys' object does not support indexing
+2022-02-17 11:05:28,647 - shuncom_main_2.py[line:188] - ERROR: add_device 祑都: 'dict_keys' object does not support indexing
+2022-02-17 11:06:04,625 - shuncom_main_2.py[line:188] - ERROR: add_device 祑都: 'dict_keys' object does not support indexing
+2022-02-17 11:06:22,167 - shuncom_main_2.py[line:188] - ERROR: add_device 祑都: 'dict_keys' object does not support indexing
+2022-02-17 14:09:24,668 - shuncom_main_2.py[line:575] - ERROR: flash_tableWidget_data 祑都: object of type 'NoneType' has no len()
+2022-02-17 14:11:26,260 - shuncom_main_2.py[line:575] - ERROR: flash_tableWidget_data 祑都: object of type 'NoneType' has no len()
+2022-02-17 14:22:05,549 - shuncom_main_2.py[line:575] - ERROR: flash_tableWidget_data 祑都: object of type 'NoneType' has no len()
+2022-02-17 14:22:17,485 - shuncom_main_2.py[line:575] - ERROR: flash_tableWidget_data 祑都: object of type 'NoneType' has no len()
+2022-02-17 14:22:46,573 - shuncom_main_2.py[line:575] - ERROR: flash_tableWidget_data 祑都: object of type 'NoneType' has no len()
+2022-02-17 14:29:20,246 - shuncom_main_2.py[line:575] - ERROR: flash_tableWidget_data 祑都: object of type 'NoneType' has no len()
+2022-02-17 14:31:46,094 - shuncom_main_2.py[line:575] - ERROR: flash_tableWidget_data 祑都: object of type 'NoneType' has no len()
+2022-02-17 14:34:17,796 - shuncom_main_2.py[line:575] - ERROR: flash_tableWidget_data 祑都: object of type 'NoneType' has no len()
+2022-02-17 14:35:12,945 - shuncom_main_2.py[line:575] - ERROR: flash_tableWidget_data 祑都: object of type 'NoneType' has no len()
+2022-02-17 14:35:49,480 - shuncom_main_2.py[line:575] - ERROR: flash_tableWidget_data 祑都: object of type 'NoneType' has no len()
+2022-02-17 14:37:40,505 - shuncom_main_2.py[line:575] - ERROR: flash_tableWidget_data 祑都: object of type 'NoneType' has no len()
+2022-02-17 14:41:22,814 - shuncom_main_2.py[line:246] - ERROR: add_device 祑都: Expecting value: line 1 column 1 (char 0)
+2022-02-17 14:47:59,880 - shuncom_main_2.py[line:567] - ERROR: 邧僻IP輛銡擬ん 祑都: list index out of range
+2022-02-17 20:43:38,800 - shuncom_main_2.py[line:267] - ERROR: add_device 祑都: 'http_port'
+2022-02-17 20:44:02,020 - shuncom_main_2.py[line:267] - ERROR: add_device 祑都: 'http_port'
+2022-02-17 20:50:28,582 - shuncom_main_2.py[line:267] - ERROR: add_device 祑都: 'http_port'
+2022-02-17 20:58:39,440 - shuncom_main_2.py[line:267] - ERROR: add_device 祑都: 'channel'
+2022-02-17 21:09:22,096 - shuncom_main_2.py[line:266] - ERROR: add_device 祑都: 'sziot'
+2022-02-17 21:10:27,801 - shuncom_main_2.py[line:266] - ERROR: add_device 祑都: 'http_port'
+2022-02-17 21:12:08,679 - shuncom_main_2.py[line:266] - ERROR: add_device 祑都: name 'channel' is not defined

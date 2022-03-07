@@ -1,0 +1,4 @@
+2022-01-27 09:19:33,788 - shuncom_main_1.py[line:313] - ERROR: SET_UI_QSS 异常: argument 1 has unexpected type 'NoneType'
+2022-01-27 10:10:58,813 - shuncom_main_1.py[line:317] - ERROR: SET_UI_QSS 异常: name 'comboBox' is not defined
+2022-01-27 14:48:07,519 - shuncom_main_2.py[line:473] - ERROR: flash_tableWidget_data 异常: setText(self, str): argument 1 has unexpected type 'int'
+2022-01-27 14:49:44,640 - shuncom_main_2.py[line:494] - ERROR: flash_device 异常: 'network'

@@ -1,0 +1,20 @@
+2022-01-24 09:35:04,914 - shuncom_main_2.py[line:167] - ERROR: IP_more_show 异常: The object is not a PyHANDLE object
+2022-01-24 10:59:03,950 - shuncom_main_1.py[line:198] - ERROR: Add_checkbox_to_tableWidget 异常: 'NoneType' object has no attribute 'setText'
+2022-01-24 10:59:03,950 - shuncom_main_1.py[line:198] - ERROR: Add_checkbox_to_tableWidget 异常: 'NoneType' object has no attribute 'setText'
+2022-01-24 11:42:42,680 - shuncom_main_2.py[line:255] - ERROR: GET_selected_data 异常: 'ShuncomWidget' object has no attribute 'tableWidget_contorl_list'
+2022-01-24 11:57:14,274 - shuncom_main_1.py[line:200] - ERROR: Add_checkbox_to_tableWidget 异常: 'QTableWidgetItem' object has no attribute 'TextAlignment'
+2022-01-24 11:57:14,278 - shuncom_main_1.py[line:200] - ERROR: Add_checkbox_to_tableWidget 异常: 'QTableWidgetItem' object has no attribute 'TextAlignment'
+2022-01-24 14:00:36,874 - shuncom_main_2.py[line:255] - ERROR: GET_selected_data 异常: 'ShuncomWidget' object has no attribute 'tableWidget_contorl_list'
+2022-01-24 14:00:38,978 - shuncom_main_2.py[line:255] - ERROR: GET_selected_data 异常: 'ShuncomWidget' object has no attribute 'tableWidget_contorl_list'
+2022-01-24 14:15:37,389 - shuncom_main_2.py[line:123] - ERROR: add_device 异常: 'NoneType' object is not subscriptable
+2022-01-24 14:21:06,300 - shuncom_main_2.py[line:126] - ERROR: add_device 异常: 'NoneType' object is not subscriptable
+2022-01-24 14:21:44,160 - shuncom_main_2.py[line:126] - ERROR: add_device 异常: object of type 'NoneType' has no len()
+2022-01-24 14:22:57,162 - shuncom_main_2.py[line:127] - ERROR: add_device 异常: object of type 'NoneType' has no len()
+2022-01-24 14:26:52,161 - shuncom_main_2.py[line:395] - ERROR: udp_scanning_gw_ip_mac 异常: MainWindow_main_1.signal_Popup_Qtime_QtCore[str, str] signal has 2 argument(s) but 1 provided
+2022-01-24 14:42:45,768 - shuncom_main_2.py[line:260] - ERROR: GET_selected_data 异常: 'ShuncomWidget' object has no attribute 'tableWidget_contorl_list'
+2022-01-24 14:43:50,461 - shuncom_main_2.py[line:260] - ERROR: GET_selected_data 异常: 'ShuncomWidget' object has no attribute 'tableWidget_contorl_list'
+2022-01-24 14:45:12,735 - shuncom_main_2.py[line:260] - ERROR: GET_selected_data 异常: 'ShuncomWidget' object has no attribute 'tableWidget_contorl_list'
+2022-01-24 14:46:29,485 - shuncom_main_2.py[line:260] - ERROR: GET_selected_data 异常: 'ShuncomWidget' object has no attribute 'tableWidget_contorl_list'
+2022-01-24 15:05:42,528 - shuncom_main_2.py[line:221] - ERROR: Updata_window 异常: list index out of range
+2022-01-24 15:06:07,051 - shuncom_main_2.py[line:221] - ERROR: Updata_window 异常: 'list' object has no attribute 'row'
+2022-01-24 15:13:58,953 - shuncom_main_2.py[line:396] - ERROR: udp_scanning_gw_ip_mac 异常: MainWindow_main_1.signal_Popup_Qtime_QtCore[str, str] signal has 2 argument(s) but 1 provided

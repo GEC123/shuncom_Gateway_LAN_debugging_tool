@@ -1,0 +1,12 @@
+2022-02-21 09:58:43,592 - shuncom_main_2.py[line:696] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-21 10:25:48,781 - shuncom_main_2.py[line:697] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-21 10:25:53,964 - shuncom_main_2.py[line:697] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-21 16:07:32,471 - shuncom_main_2.py[line:353] - ERROR: Server_show 异常: '192.168.5.254'
+2022-02-21 16:07:34,014 - shuncom_main_2.py[line:353] - ERROR: Server_show 异常: '192.168.5.254'
+2022-02-21 16:07:36,045 - shuncom_main_2.py[line:353] - ERROR: Server_show 异常: '192.168.5.254'
+2022-02-21 16:07:43,257 - shuncom_main_2.py[line:353] - ERROR: Server_show 异常: '192.168.5.254'
+2022-02-21 16:07:44,134 - shuncom_main_2.py[line:353] - ERROR: Server_show 异常: '192.168.5.254'
+2022-02-21 16:07:44,303 - shuncom_main_2.py[line:353] - ERROR: Server_show 异常: '192.168.5.254'
+2022-02-21 16:07:44,894 - shuncom_main_2.py[line:353] - ERROR: Server_show 异常: '192.168.5.254'
+2022-02-21 16:07:45,030 - shuncom_main_2.py[line:353] - ERROR: Server_show 异常: '192.168.5.254'
+2022-02-21 16:07:45,230 - shuncom_main_2.py[line:353] - ERROR: Server_show 异常: '192.168.5.254'

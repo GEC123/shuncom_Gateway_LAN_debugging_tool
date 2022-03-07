@@ -1,0 +1,31 @@
+2022-02-24 11:32:33,557 - shuncom_main_2.py[line:772] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 11:32:36,022 - shuncom_main_2.py[line:772] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 11:32:39,107 - shuncom_main_2.py[line:772] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 11:32:44,026 - shuncom_main_2.py[line:772] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 15:24:14,235 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 16:06:24,014 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'channel'
+2022-02-24 19:28:55,825 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 19:29:04,620 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 19:29:13,230 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 19:29:24,580 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 19:29:34,578 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 19:44:18,805 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 19:56:55,191 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'host'
+2022-02-24 19:57:14,452 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'host'
+2022-02-24 19:58:23,229 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'host'
+2022-02-24 19:59:17,507 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 19:59:36,102 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'host'
+2022-02-24 19:59:41,370 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'host'
+2022-02-24 20:00:53,113 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'host'
+2022-02-24 20:10:59,977 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'host'
+2022-02-24 20:15:24,230 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'host'
+2022-02-24 20:15:31,467 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'host'
+2022-02-24 20:15:36,495 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'host'
+2022-02-24 20:15:40,102 - shuncom_main_2.py[line:280] - ERROR: add_device 异常: 'host'
+2022-02-24 20:15:45,045 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 20:16:25,576 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 20:16:28,918 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 20:16:33,541 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 20:16:47,758 - shuncom_main_2.py[line:780] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 21:13:53,459 - shuncom_main_2.py[line:783] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-24 21:14:24,483 - shuncom_main_2.py[line:783] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()

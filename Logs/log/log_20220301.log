@@ -1,0 +1,4 @@
+2022-03-01 09:38:37,227 - shuncom_main_2.py[line:295] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-03-01 09:38:41,672 - shuncom_main_2.py[line:295] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-03-01 10:40:33,187 - shuncom_main_2.py[line:302] - ERROR: add_device 异常: 'NoneType' object has no attribute 'setFlags'
+2022-03-01 14:04:30,056 - shuncom_main_2.py[line:312] - ERROR: add_device 异常: 'str' object has no attribute 'keys'

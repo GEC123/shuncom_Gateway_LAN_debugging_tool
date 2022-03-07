@@ -1,0 +1,29 @@
+2022-02-19 15:02:32,840 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:04:34,314 - shuncom_main_2.py[line:699] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-19 15:09:01,668 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:13:09,882 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:15:19,529 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:17:42,133 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:20:00,744 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:21:42,302 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:31:02,010 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:40:10,770 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:41:06,088 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:43:32,463 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:44:09,801 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:51:57,851 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:52:28,518 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 15:54:20,477 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 16:04:20,458 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-19 16:07:31,958 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'channel'
+2022-02-19 16:08:03,423 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'channel'
+2022-02-19 16:15:13,555 - shuncom_main_2.py[line:699] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-19 16:22:28,326 - shuncom_main_2.py[line:699] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-19 16:22:59,448 - shuncom_main_2.py[line:699] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-19 16:24:56,989 - shuncom_main_2.py[line:699] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-19 16:26:32,092 - shuncom_main_2.py[line:699] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-19 16:26:35,930 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'channel'
+2022-02-19 16:31:29,143 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'channel'
+2022-02-19 16:37:11,928 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'channel'
+2022-02-19 16:38:34,276 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: the JSON object must be str, bytes or bytearray, not list
+2022-02-19 16:42:36,469 - shuncom_main_2.py[line:272] - ERROR: add_device 异常: 'int' object has no attribute 'upper'

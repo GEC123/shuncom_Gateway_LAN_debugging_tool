@@ -1,0 +1,59 @@
+2022-01-25 10:07:31,608 - shuncom_main_2.py[line:296] - ERROR: 获取所有选中设备的信息 异常: column(self, QTableWidgetItem): not enough arguments
+2022-01-25 10:07:31,613 - shuncom_main_2.py[line:339] - ERROR: 导出设备信息到execl表格 异常: object of type 'NoneType' has no len()
+2022-01-25 10:08:01,705 - shuncom_main_2.py[line:296] - ERROR: 获取所有选中设备的信息 异常: 'int' object is not iterable
+2022-01-25 10:08:01,706 - shuncom_main_2.py[line:339] - ERROR: 导出设备信息到execl表格 异常: object of type 'NoneType' has no len()
+2022-01-25 10:08:53,985 - shuncom_main_2.py[line:296] - ERROR: 获取所有选中设备的信息 异常: 'NoneType' object has no attribute 'text'
+2022-01-25 10:08:53,990 - shuncom_main_2.py[line:339] - ERROR: 导出设备信息到execl表格 异常: object of type 'NoneType' has no len()
+2022-01-25 10:11:02,212 - shuncom_main_2.py[line:342] - ERROR: 导出设备信息到execl表格 异常: 'int' object is not iterable
+2022-01-25 10:23:52,160 - shuncom_main_2.py[line:342] - ERROR: 导出设备信息到execl表格 异常: list index out of range
+2022-01-25 11:04:16,216 - shuncom_main_2.py[line:425] - ERROR: 双击IP进浏览器 异常: list index out of range
+2022-01-25 11:04:17,235 - shuncom_main_2.py[line:425] - ERROR: 双击IP进浏览器 异常: list index out of range
+2022-01-25 11:07:48,716 - shuncom_main_2.py[line:423] - ERROR: 双击IP进浏览器 异常: list index out of range
+2022-01-25 11:13:47,781 - shuncom_main_2.py[line:423] - ERROR: 双击IP进浏览器 异常: list index out of range
+2022-01-25 11:14:11,159 - shuncom_main_2.py[line:423] - ERROR: 双击IP进浏览器 异常: list index out of range
+2022-01-25 11:35:01,118 - shuncom_main_2.py[line:433] - ERROR: 双击IP进浏览器 异常: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+2022-01-25 11:39:04,240 - shuncom_main_2.py[line:433] - ERROR: 双击IP进浏览器 异常: Message: 'geckodriver' executable needs to be in PATH. 
+
+2022-01-25 11:49:18,185 - shuncom_main_2.py[line:439] - ERROR: 双击IP进浏览器 异常: Message: 'geckodriver' executable needs to be in PATH. 
+
+2022-01-25 13:46:54,549 - shuncom_main_2.py[line:440] - ERROR: 双击IP进浏览器 异常: Message: 'geckodriver' executable needs to be in PATH. 
+
+2022-01-25 15:17:23,499 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:23,992 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:24,413 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:24,845 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:25,325 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:25,519 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:25,645 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:25,837 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:26,126 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:26,318 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:26,463 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:26,660 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:26,818 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:26,959 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:27,103 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:27,297 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:27,473 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:27,807 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:28,062 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:28,289 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:28,785 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:29,043 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:29,429 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:29,605 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:29,763 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:29,928 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:30,100 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:30,259 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:30,419 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:30,596 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:30,726 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:30,900 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:31,046 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:31,175 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:34,810 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:34,939 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:35,241 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'
+2022-01-25 15:17:35,404 - shuncom_main_1.py[line:140] - ERROR: delete_tableWidget_row 异常: 'ShuncomWidget' object has no attribute 'find_device_data'

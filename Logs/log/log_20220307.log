@@ -1,0 +1,2 @@
+2022-03-07 16:00:58,058 - shuncom_main_2.py[line:338] - ERROR: add_device “Ï≥£: 'str' object has no attribute 'keys'
+2022-03-07 16:01:00,967 - shuncom_main_2.py[line:338] - ERROR: add_device “Ï≥£: 'str' object has no attribute 'keys'

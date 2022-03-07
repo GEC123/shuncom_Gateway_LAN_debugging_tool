@@ -1,0 +1,38 @@
+2022-02-28 09:34:01,904 - shuncom_main_2.py[line:786] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 09:34:45,980 - shuncom_main_2.py[line:786] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 09:36:02,694 - shuncom_main_2.py[line:786] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 09:36:26,484 - shuncom_main_2.py[line:786] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 09:36:31,307 - shuncom_main_2.py[line:786] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 09:36:50,402 - shuncom_main_2.py[line:786] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 09:37:17,040 - shuncom_main_2.py[line:786] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 13:47:55,648 - shuncom_main_2.py[line:786] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:24:19,691 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:28:19,293 - shuncom_main_2.py[line:287] - ERROR: add_device 异常: 'http_port'
+2022-02-28 16:56:54,973 - shuncom_main_2.py[line:287] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-28 16:56:57,677 - shuncom_main_2.py[line:287] - ERROR: add_device 异常: 'str' object has no attribute 'keys'
+2022-02-28 16:57:44,529 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:57:48,648 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:57:51,789 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:57:58,318 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:58:09,884 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:58:17,261 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:58:20,715 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:58:32,796 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:58:54,840 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:59:30,997 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 16:59:36,716 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 17:02:59,358 - shuncom_main_2.py[line:791] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-28 17:20:42,559 - shuncom_main_2.py[line:289] - ERROR: add_device 异常: 'NoneType' object has no attribute 'setEnabled'
+2022-02-28 17:27:45,757 - shuncom_main_2.py[line:290] - ERROR: add_device 异常: 'NoneType' object has no attribute 'setBackground'
+2022-02-28 17:33:10,250 - shuncom_main_2.py[line:290] - ERROR: add_device 异常: 'NoneType' object has no attribute 'setBackground'
+2022-02-28 18:03:11,324 - shuncom_main_2.py[line:290] - ERROR: add_device 异常: 'NoneType' object has no attribute 'setFlags'
+2022-02-28 19:22:33,390 - shuncom_main_2.py[line:291] - ERROR: add_device 异常: invalid literal for int() with base 10: '无'
+2022-02-28 19:27:57,995 - shuncom_main_2.py[line:291] - ERROR: add_device 异常: invalid literal for int() with base 10: '无'
+2022-02-28 19:28:10,746 - shuncom_main_2.py[line:291] - ERROR: add_device 异常: 'sziot'
+2022-02-28 19:28:36,249 - shuncom_main_2.py[line:291] - ERROR: add_device 异常: invalid literal for int() with base 10: '无'
+2022-02-28 19:29:40,963 - shuncom_main_2.py[line:291] - ERROR: add_device 异常: invalid literal for int() with base 10: '无'
+2022-02-28 19:30:00,212 - shuncom_main_2.py[line:291] - ERROR: add_device 异常: invalid literal for int() with base 10: '无'
+2022-02-28 19:59:05,054 - shuncom_main_2.py[line:291] - ERROR: add_device 异常: invalid literal for int() with base 10: '无'
+2022-02-28 20:04:07,061 - shuncom_main_2.py[line:785] - ERROR: 双击IP进浏览器 异常: list index out of range
+2022-02-28 20:06:14,287 - shuncom_main_2.py[line:294] - ERROR: add_device 异常: 'NoneType' object has no attribute 'setFlags'
+2022-02-28 20:07:29,486 - shuncom_main_2.py[line:295] - ERROR: add_device 异常: 'str' object has no attribute 'keys'

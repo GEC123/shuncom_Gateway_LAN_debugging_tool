@@ -1,0 +1,16 @@
+2022-01-26 11:04:44,899 - shuncom_main_1.py[line:383] - ERROR: SHOW_CLOSE_tableWidget_3 Òì³£: 'str' object has no attribute 'clear'
+2022-01-26 11:05:06,831 - shuncom_main_1.py[line:383] - ERROR: SHOW_CLOSE_tableWidget_3 Òì³£: 'str' object has no attribute 'clear'
+2022-01-26 11:05:30,833 - shuncom_main_1.py[line:383] - ERROR: SHOW_CLOSE_tableWidget_3 Òì³£: 'str' object has no attribute 'clear'
+2022-01-26 11:06:11,360 - shuncom_main_1.py[line:383] - ERROR: SHOW_CLOSE_tableWidget_3 Òì³£: 'str' object has no attribute 'clear'
+2022-01-26 11:09:39,080 - shuncom_main_1.py[line:383] - ERROR: SHOW_CLOSE_tableWidget_3 Òì³£: 'str' object has no attribute 'clear'
+2022-01-26 14:42:12,888 - shuncom_main_2.py[line:462] - ERROR: Ë«»÷IP½øä¯ÀÀÆ÷ Òì³£: list index out of range
+2022-01-26 14:42:13,795 - shuncom_main_2.py[line:462] - ERROR: Ë«»÷IP½øä¯ÀÀÆ÷ Òì³£: list index out of range
+2022-01-26 14:42:14,389 - shuncom_main_2.py[line:462] - ERROR: Ë«»÷IP½øä¯ÀÀÆ÷ Òì³£: list index out of range
+2022-01-26 14:42:17,480 - shuncom_main_2.py[line:462] - ERROR: Ë«»÷IP½øä¯ÀÀÆ÷ Òì³£: list index out of range
+2022-01-26 14:44:22,017 - shuncom_main_2.py[line:462] - ERROR: Ë«»÷IP½øä¯ÀÀÆ÷ Òì³£: list index out of range
+2022-01-26 14:44:24,834 - shuncom_main_2.py[line:462] - ERROR: Ë«»÷IP½øä¯ÀÀÆ÷ Òì³£: list index out of range
+2022-01-26 14:44:26,060 - shuncom_main_2.py[line:462] - ERROR: Ë«»÷IP½øä¯ÀÀÆ÷ Òì³£: list index out of range
+2022-01-26 14:44:26,901 - shuncom_main_2.py[line:462] - ERROR: Ë«»÷IP½øä¯ÀÀÆ÷ Òì³£: list index out of range
+2022-01-26 14:46:23,189 - shuncom_main_2.py[line:462] - ERROR: Ë«»÷IP½øä¯ÀÀÆ÷ Òì³£: list index out of range
+2022-01-26 19:08:35,530 - shuncom_main_1.py[line:312] - ERROR: SET_UI_QSS Òì³£: setStyleSheet(self, str): too many arguments
+2022-01-26 19:37:28,259 - shuncom_main_1.py[line:313] - ERROR: SET_UI_QSS Òì³£: argument 1 has unexpected type 'NoneType'

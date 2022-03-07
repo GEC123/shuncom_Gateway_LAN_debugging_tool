@@ -1,0 +1,19 @@
+2022-02-18 10:36:17,569 - shuncom_main_2.py[line:319] - ERROR: IP_more_show 异常: '192.168.5.254'
+2022-02-18 10:39:13,414 - shuncom_main_2.py[line:274] - ERROR: add_device 异常: 'http_port'
+2022-02-18 14:16:52,060 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:16:56,938 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:18:06,131 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:18:19,942 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:18:28,185 - shuncom_main_2.py[line:274] - ERROR: add_device 异常: 'http_port'
+2022-02-18 14:18:55,355 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:19:02,662 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:19:05,403 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:19:19,076 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:24:16,578 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:24:34,404 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:24:37,922 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:24:45,890 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 14:59:49,588 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 15:03:22,507 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 15:03:31,406 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
+2022-02-18 15:03:57,285 - shuncom_main_2.py[line:701] - ERROR: flash_tableWidget_data 异常: object of type 'NoneType' has no len()
