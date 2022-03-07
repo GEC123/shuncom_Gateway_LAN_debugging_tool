@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>tool_change</class>
+ <widget class="QMainWindow" name="tool_change">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>260</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>600</width>
+    <height>260</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>600</width>
+    <height>260</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>修改Zigbee主站</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">
+QMainWindow
+{
+	background-color: rgb(255, 255, 255);
+}</string>
+  </property>
+  <property name="animated">
+   <bool>true</bool>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>30</y>
+      <width>601</width>
+      <height>161</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string/>
+    </property>
+    <widget class="QGroupBox" name="groupBox_2">
+     <property name="geometry">
+      <rect>
+       <x>200</x>
+       <y>30</y>
+       <width>285</width>
+       <height>110</height>
+      </rect>
+     </property>
+     <property name="minimumSize">
+      <size>
+       <width>285</width>
+       <height>110</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>285</width>
+       <height>110</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QGroupBox
+{
+	border : none;
+
+}</string>
+     </property>
+     <property name="title">
+      <string/>
+     </property>
+     <layout class="QGridLayout" name="gridLayout">
+      <property name="leftMargin">
+       <number>0</number>
+      </property>
+      <property name="topMargin">
+       <number>0</number>
+      </property>
+      <property name="rightMargin">
+       <number>0</number>
+      </property>
+      <property name="bottomMargin">
+       <number>0</number>
+      </property>
+      <item row="0" column="0">
+       <widget class="QComboBox" name="comboBox">
+        <property name="minimumSize">
+         <size>
+          <width>260</width>
+          <height>32</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>260</width>
+          <height>32</height>
+         </size>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QComboBox{
+	
+	color: rgb(50, 50, 51);
+	border : none;
+}
+QComboBox::down-arrow{
+	image: url(:/png/shuncom_ico/png_ico/下拉4.png);
+	hight : 16px;
+	width : 16px;
+	
+}
+QComboBox::drop-down{
+	border-style: none;
+}</string>
+        </property>
+        <item>
+         <property name="text">
+          <string>00(2.405GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>01(2.410GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>02(2.415GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>03(2.420GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>04(2.425GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>05(2.430GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>06(2.435GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>07(2.440GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>08(2.445GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>09(2.450GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>0A(2.455GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>0B(2.460GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>0C(2.465GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>0D(2.470GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>0E(2.475GHz)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>0F(2.480GHz)</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLineEdit" name="lineEdit">
+        <property name="minimumSize">
+         <size>
+          <width>260</width>
+          <height>32</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>260</width>
+          <height>32</height>
+         </size>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">border : none;</string>
+        </property>
+        <property name="placeholderText">
+         <string>请输入四位数16进制</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QGroupBox" name="groupBox_3">
+     <property name="geometry">
+      <rect>
+       <x>89</x>
+       <y>30</y>
+       <width>91</width>
+       <height>110</height>
+      </rect>
+     </property>
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>110</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>16777215</width>
+       <height>110</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QGroupBox
+{
+	border : none;
+
+}</string>
+     </property>
+     <property name="title">
+      <string/>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_2">
+      <item row="0" column="0">
+       <widget class="QLabel" name="label">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(50, 50, 51);</string>
+        </property>
+        <property name="text">
+         <string>频点:</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLabel" name="label_2">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(50, 50, 51);</string>
+        </property>
+        <property name="text">
+         <string>频点ID:</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>210</y>
+      <width>157</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="QLabel" name="label_3">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(98, 98, 102);</string>
+       </property>
+       <property name="text">
+        <string>已选择设备数:</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_4">
+       <property name="minimumSize">
+        <size>
+         <width>50</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>50</width>
+         <height>16777215</height>
+        </size>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>200</y>
+      <width>76</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>76</width>
+      <height>32</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>76</width>
+      <height>32</height>
+     </size>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">/*按钮普通态*/
+QPushButton
+{
+    /*字体为微软雅黑*/
+    font-family:Microsoft Yahei;
+    /*字体大小为20点*/
+    font-size:10pt;
+    /*字体颜色*/ 
+	color: rgb(50, 50, 51);
+ 	/*背景颜色*/  
+    background-color:rgb(255,255,255);
+    /*边框圆角半径为8像素*/ 
+    border-radius:2px;
+	width:65px;
+}
+ 
+/*按钮停留态*/
+QPushButton:hover
+{
+   /*背景颜色*/  
+    background-color: rgb(85, 170, 255);
+}
+ 
+/*按钮按下态*/
+QPushButton:pressed
+{
+    /*背景颜色*/  
+ 	background-color:rgb(170 , 255 , 255);
+    /*左内边距为3像素，让按下时字向右移动3像素*/  
+    padding-left:3px;
+    /*上内边距为3像素，让按下时字向下移动3像素*/  
+    padding-top:3px;
+}</string>
+    </property>
+    <property name="text">
+     <string>取消</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>200</y>
+      <width>76</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>76</width>
+      <height>32</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>76</width>
+      <height>32</height>
+     </size>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">/*按钮普通态*/
+QPushButton
+{
+    /*字体为微软雅黑*/
+    font-family:Microsoft Yahei;
+    /*字体大小为20点*/
+    font-size:10pt;
+    /*字体颜色*/ 
+	color: rgb(50, 50, 51);
+ 	/*背景颜色*/  
+    background-color: rgb(21, 133, 212);
+    /*边框圆角半径为8像素*/ 
+    border-radius:2px;
+	width:65px;
+}
+ 
+/*按钮停留态*/
+QPushButton:hover
+{
+   /*背景颜色*/  
+    background-color: rgb(85, 170, 255);
+}
+ 
+/*按钮按下态*/
+QPushButton:pressed
+{
+    /*背景颜色*/  
+ 	background-color:rgb(170 , 255 , 255);
+    /*左内边距为3像素，让按下时字向右移动3像素*/  
+    padding-left:3px;
+    /*上内边距为3像素，让按下时字向下移动3像素*/  
+    padding-top:3px;
+}</string>
+    </property>
+    <property name="text">
+     <string>确定</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="../../shuncom_qrc.qrc"/>
+ </resources>
+ <connections/>
+</ui>
