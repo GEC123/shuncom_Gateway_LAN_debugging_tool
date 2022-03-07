@@ -20,6 +20,11 @@ from shuncom_module.shuncom_params_init import *
 from shuncom_ui.shuncom_main_3 import shuncom_FramelessWindow,shuncom_MainWindow
 
 
+
+
+
+
+
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     app.setWindowIcon(QIcon(':/png/shuncom_ico/png_ico2/检测.ico'))
